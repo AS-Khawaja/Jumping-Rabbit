@@ -1,8 +1,5 @@
 # Jumping-Rabbit
 
-Description:
-Jumping Rabbit is a simple and engaging 2D game developed in x86/88 Assembly language. The player controls a rabbit that needs to jump over obstacles to earn points and survive as long as possible. This project showcases the fundamentals of low-level programming, including direct hardware interaction, memory management, and game logic implementation using assembly.
-
 Features:
 Platform: x86/88 architecture
 Graphics: Text-based or simple pixel-based display
